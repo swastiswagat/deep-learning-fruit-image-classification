@@ -52,3 +52,7 @@ This project aims to develop a fruit image detection and classification system u
 ------------
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
+
+### Author
+
+[Swasti Swagat]
