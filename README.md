@@ -1,13 +1,13 @@
 # deep-learning-fruit-image-classification
 # Fruit Image Detection using CNN
-=====================================================
+=========================================================
 
 A machine learning project using Convolutional Neural Networks (CNN) to detect and classify fruit images.
 
 ## Project Overview
 -------------------
 
-This project aims to develop a fruit image detection and classification system using deep learning techniques. The system will be trained on a dataset of fruit images and will be able to identify different types of fruits from new, unseen images.
+This project aims to develop a fruit image detection and classification system using deep learning techniques. The system will be trained on a dataset of fruit images and will be able to identify different types of fruits from new, unseen images. 
 
 ## Technologies Used
 --------------------
